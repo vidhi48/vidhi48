@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Vidhi Patel</h1>
 <h3 align="center">A passionate Native Mobile developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi48&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi48" /> </p>
 
@@ -8,8 +10,6 @@
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **patelvidhi040802@gmail.com**
-
-- 📄 Know about my experiences [Resume](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhi48&show_icons=true&locale=en" alt="vidhi48" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhi48&" alt="vidhi48" /></p>
-
