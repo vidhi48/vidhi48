@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi48&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi48" /> </p>
 
-- 🔭 I’m currently working on **Instagram-clone**
+- 🔭 I’m currently working on **EatsExpress**
 
 - 🌱 I’m currently learning **Swift**
 
