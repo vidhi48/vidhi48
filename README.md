@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi48&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi48" /> </p>
 
-- 🔭 I’m currently working on **EatsExpress**
+- 🔭 I’m currently working on **Instagram-clone**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Jetpack Compose and SwiftUI**
 
-- 💬 Ask me about **Android, Kotlin, Swift, Java**
+- 💬 Ask me about **Swift, SwiftUI, Xcode, Android, Kotlin, Compose, OOPs, GIT**
 
 - 📫 How to reach me **patelvidhi040802@gmail.com**
 
